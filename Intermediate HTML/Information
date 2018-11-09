@@ -1,0 +1,12 @@
+HTML Table:
+<table></table>: Table tag
+<tr></tr>: table row
+<td></td>: table coloum
+<thead></thead>: table head
+<tbody></tbody>: table body
+<form></form>:form tag 
+placeholder : something written into the brackets.
+<input>:input tag type=text,buttom,radio,checkbox,password,date,time,submit,etc.
+ Validations: required
+<select><option></option></select>:Dropdowns
+<textarea></textarea>: something wanna write.
