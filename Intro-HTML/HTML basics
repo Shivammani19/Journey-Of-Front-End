@@ -1,0 +1,13 @@
+Basics 
+<em></em>: italic front
+<strong></strong>: bolt front
+<p></<p>: paragraph tag
+<h1 to 6></h1 to 6>: heading tag (size <----inc)
+<ol></ol>:order list (marking 1toN)
+<ul></ul>:unorder list (marking a symolls like circle etc)
+<li></li>: list 
+<div></div>:blocks element
+<spans></spans>:line element
+Attributes: 
+<a href=""></a>: link file 
+<img src="">: image tag
